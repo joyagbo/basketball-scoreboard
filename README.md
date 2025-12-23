@@ -6,7 +6,7 @@ This project allows users to track scores for **Home** and **Guest** teams using
 
 ---
 
-## ✨ Features
+## Features
 
 - Separate score tracking for Home and Guest teams
 - Buttons to add **+1**, **+2**, or **+3** points
@@ -16,7 +16,7 @@ This project allows users to track scores for **Home** and **Guest** teams using
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -24,7 +24,7 @@ This project allows users to track scores for **Home** and **Guest** teams using
 
 ---
 
-## 📸 Preview
+## Preview
 
 The app includes:
 - An empty state (scores start at 0)
@@ -32,7 +32,7 @@ The app includes:
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 - JavaScript stores the scores in variables
 - Button clicks trigger event listeners
@@ -40,7 +40,7 @@ The app includes:
 
 ---
 
-## 🌱 Learning Goals
+## Learning Goals
 
 This project was built to practice:
 - DOM manipulation
@@ -51,7 +51,7 @@ This project was built to practice:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Highlight the leading team
 - Add a “New Game” / Reset button
@@ -60,6 +60,6 @@ This project was built to practice:
 
 ---
 
-## 👤 Author
+## Author
 
 Built by **Joy Agbo** as part of a JavaScript learning journey.
